@@ -1,0 +1,6 @@
+.stack-work/
+haskell-sudoku-solver.cabal
+*~
+*.iml
+.idea
+.DS_Store
